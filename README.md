@@ -12,4 +12,8 @@ To showcase my skills and experience, I’ve included links to my pet projects b
 
 * [Morse](https://github.com/RyshchukDmytro/Morse) - Project in progress: an app for encoding/decoding Morse code, complete with sound playback and light flashing functionality.
 
+* [CustomSwiftUIMap](https://github.com/RyshchukDmytro/CustomSwiftUIMap) - Map application where I utilized prerecorded data to display several spots on the map. The app demonstrates basic map integration, data visualization, and user interaction with map annotations.
+
+* [TodoList](https://github.com/RyshchukDmytro/TodoList) - TODO list application where you can manage your tasks efficiently. The app provides basic functionality with a clean and user-friendly interface.
+
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions or would like more details about my professional work!
